@@ -7,7 +7,7 @@ This repository consists code for creating word vectors from the first 3 Game of
 
 ## Overview
 
-This notebook containes implementation of the word vectors created from the books. I have attempted to visualize the vectors into 2D space using t-SNE. Also, I have explored semantic properties like identifying the most similar word.
+This notebook contains implementation of the word vectors created from the books. I have attempted to visualize the vectors into 2D space using t-SNE. Also, I have explored semantic properties like identifying the most similar word.
 
 Example:
 
